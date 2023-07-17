@@ -206,11 +206,11 @@
     </dependencies>
   </dependencyManagement>
 
-  <scm>
-    <connection>scm:git:git@github.com:Abhikalesh1322/DevOps_PR1.git</connection>
-    <developerConnection>scm:git:git@github.com:Abhikalesh1322/DevOps_PR1.git</developerConnection>
+ <scm>
+    <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
+    <developerConnection>scm:git:git@github.com:jleetutorial/maven-project.git</developerConnection>
     <tag>HEAD</tag>
-    <url>https://github.com/Abhikalesh1322/DevOps_PR1</url>
+    <url>http://github.com/jleetutorial/maven-project</url>
   </scm>
 
   <prerequisites>
